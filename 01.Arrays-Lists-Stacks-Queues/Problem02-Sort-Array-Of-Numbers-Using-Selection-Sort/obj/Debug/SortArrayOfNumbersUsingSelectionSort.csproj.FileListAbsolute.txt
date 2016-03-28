@@ -1,0 +1,5 @@
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\SortArrayOfNumbersUsingSelectionSort\bin\Debug\SortArrayOfNumbersUsingSelectionSort.exe
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\SortArrayOfNumbersUsingSelectionSort\bin\Debug\SortArrayOfNumbersUsingSelectionSort.pdb
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\SortArrayOfNumbersUsingSelectionSort\obj\Debug\SortArrayOfNumbersUsingSelectionSort.csprojResolveAssemblyReference.cache
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\SortArrayOfNumbersUsingSelectionSort\obj\Debug\SortArrayOfNumbersUsingSelectionSort.exe
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\SortArrayOfNumbersUsingSelectionSort\obj\Debug\SortArrayOfNumbersUsingSelectionSort.pdb

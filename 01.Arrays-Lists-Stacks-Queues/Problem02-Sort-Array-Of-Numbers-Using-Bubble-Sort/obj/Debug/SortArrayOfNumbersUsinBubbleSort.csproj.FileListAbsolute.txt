@@ -1,0 +1,5 @@
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\SortArrayOfNumbersUsinBubbleSort\bin\Debug\SortArrayOfNumbersUsinBubbleSort.exe
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\SortArrayOfNumbersUsinBubbleSort\bin\Debug\SortArrayOfNumbersUsinBubbleSort.pdb
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\SortArrayOfNumbersUsinBubbleSort\obj\Debug\SortArrayOfNumbersUsinBubbleSort.csprojResolveAssemblyReference.cache
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\SortArrayOfNumbersUsinBubbleSort\obj\Debug\SortArrayOfNumbersUsinBubbleSort.exe
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\SortArrayOfNumbersUsinBubbleSort\obj\Debug\SortArrayOfNumbersUsinBubbleSort.pdb

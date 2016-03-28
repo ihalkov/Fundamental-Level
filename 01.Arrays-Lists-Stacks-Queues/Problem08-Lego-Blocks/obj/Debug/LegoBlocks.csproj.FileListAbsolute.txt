@@ -1,0 +1,5 @@
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\LegoBlocks\bin\Debug\LegoBlocks.exe
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\LegoBlocks\bin\Debug\LegoBlocks.pdb
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\LegoBlocks\obj\Debug\LegoBlocks.csprojResolveAssemblyReference.cache
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\LegoBlocks\obj\Debug\LegoBlocks.exe
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\LegoBlocks\obj\Debug\LegoBlocks.pdb

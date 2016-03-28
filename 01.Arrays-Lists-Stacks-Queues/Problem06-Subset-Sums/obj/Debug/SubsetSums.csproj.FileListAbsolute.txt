@@ -1,0 +1,1 @@
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\SubsetSums\bin\Debug\SubsetSums.exe.config

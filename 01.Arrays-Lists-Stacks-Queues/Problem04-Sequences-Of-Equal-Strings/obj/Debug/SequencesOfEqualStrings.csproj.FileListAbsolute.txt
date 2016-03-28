@@ -1,0 +1,4 @@
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\SequencesOfEqualStrings\bin\Debug\SequencesOfEqualStrings.exe
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\SequencesOfEqualStrings\bin\Debug\SequencesOfEqualStrings.pdb
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\SequencesOfEqualStrings\obj\Debug\SequencesOfEqualStrings.exe
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\SequencesOfEqualStrings\obj\Debug\SequencesOfEqualStrings.pdb

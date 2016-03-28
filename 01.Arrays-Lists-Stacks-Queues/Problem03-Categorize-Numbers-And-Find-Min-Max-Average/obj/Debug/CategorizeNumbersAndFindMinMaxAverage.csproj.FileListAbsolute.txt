@@ -1,0 +1,5 @@
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\CategorizeNumbersAndFindMinMaxAverage\bin\Debug\CategorizeNumbersAndFindMinMaxAverage.exe
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\CategorizeNumbersAndFindMinMaxAverage\bin\Debug\CategorizeNumbersAndFindMinMaxAverage.pdb
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\CategorizeNumbersAndFindMinMaxAverage\obj\Debug\CategorizeNumbersAndFindMinMaxAverage.csprojResolveAssemblyReference.cache
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\CategorizeNumbersAndFindMinMaxAverage\obj\Debug\CategorizeNumbersAndFindMinMaxAverage.exe
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\CategorizeNumbersAndFindMinMaxAverage\obj\Debug\CategorizeNumbersAndFindMinMaxAverage.pdb

@@ -1,0 +1,4 @@
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\SortArrayOfNumbers\bin\Debug\SortArrayOfNumbers.exe
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\SortArrayOfNumbers\bin\Debug\SortArrayOfNumbers.pdb
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\SortArrayOfNumbers\obj\Debug\SortArrayOfNumbers.exe
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\SortArrayOfNumbers\obj\Debug\SortArrayOfNumbers.pdb

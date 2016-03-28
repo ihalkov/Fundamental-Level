@@ -1,0 +1,5 @@
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\SortedSubsetSums\bin\Debug\SortedSubsetSums.exe
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\SortedSubsetSums\bin\Debug\SortedSubsetSums.pdb
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\SortedSubsetSums\obj\Debug\SortedSubsetSums.csprojResolveAssemblyReference.cache
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\SortedSubsetSums\obj\Debug\SortedSubsetSums.exe
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\SortedSubsetSums\obj\Debug\SortedSubsetSums.pdb

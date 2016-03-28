@@ -1,0 +1,5 @@
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\PythagoreanNumbers\bin\Debug\PythagoreanNumbers.exe
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\PythagoreanNumbers\bin\Debug\PythagoreanNumbers.pdb
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\PythagoreanNumbers\obj\Debug\PythagoreanNumbers.csprojResolveAssemblyReference.cache
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\PythagoreanNumbers\obj\Debug\PythagoreanNumbers.exe
+E:\Java\SoftUni\Advanced-CSharp-Visual-Studio\Arrays-Lists-Stacks-Queues\PythagoreanNumbers\obj\Debug\PythagoreanNumbers.pdb
