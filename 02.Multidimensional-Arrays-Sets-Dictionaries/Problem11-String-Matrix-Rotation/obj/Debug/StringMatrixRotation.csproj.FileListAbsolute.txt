@@ -1,0 +1,5 @@
+E:\coding\CSharp\Fundamentals\Advanced-CSharp\VB\Multidimensional-Arrays-Sets-Dictionaries\StringMatrixRotation\bin\Debug\StringMatrixRotation.exe
+E:\coding\CSharp\Fundamentals\Advanced-CSharp\VB\Multidimensional-Arrays-Sets-Dictionaries\StringMatrixRotation\bin\Debug\StringMatrixRotation.pdb
+E:\coding\CSharp\Fundamentals\Advanced-CSharp\VB\Multidimensional-Arrays-Sets-Dictionaries\StringMatrixRotation\obj\Debug\StringMatrixRotation.csprojResolveAssemblyReference.cache
+E:\coding\CSharp\Fundamentals\Advanced-CSharp\VB\Multidimensional-Arrays-Sets-Dictionaries\StringMatrixRotation\obj\Debug\StringMatrixRotation.exe
+E:\coding\CSharp\Fundamentals\Advanced-CSharp\VB\Multidimensional-Arrays-Sets-Dictionaries\StringMatrixRotation\obj\Debug\StringMatrixRotation.pdb
