@@ -1,0 +1,5 @@
+E:\coding\CSharp\Fundamentals\Advanced-CSharp\VB\Strings-And-Text-Processing\Palindromes\bin\Debug\Palindromes.exe
+E:\coding\CSharp\Fundamentals\Advanced-CSharp\VB\Strings-And-Text-Processing\Palindromes\bin\Debug\Palindromes.pdb
+E:\coding\CSharp\Fundamentals\Advanced-CSharp\VB\Strings-And-Text-Processing\Palindromes\obj\Debug\Palindromes.csprojResolveAssemblyReference.cache
+E:\coding\CSharp\Fundamentals\Advanced-CSharp\VB\Strings-And-Text-Processing\Palindromes\obj\Debug\Palindromes.exe
+E:\coding\CSharp\Fundamentals\Advanced-CSharp\VB\Strings-And-Text-Processing\Palindromes\obj\Debug\Palindromes.pdb

@@ -1,0 +1,5 @@
+E:\coding\CSharp\Fundamentals\Advanced-CSharp\VB\Strings-And-Text-Processing\StringLength\bin\Debug\StringLength.exe
+E:\coding\CSharp\Fundamentals\Advanced-CSharp\VB\Strings-And-Text-Processing\StringLength\bin\Debug\StringLength.pdb
+E:\coding\CSharp\Fundamentals\Advanced-CSharp\VB\Strings-And-Text-Processing\StringLength\obj\Debug\StringLength.csprojResolveAssemblyReference.cache
+E:\coding\CSharp\Fundamentals\Advanced-CSharp\VB\Strings-And-Text-Processing\StringLength\obj\Debug\StringLength.exe
+E:\coding\CSharp\Fundamentals\Advanced-CSharp\VB\Strings-And-Text-Processing\StringLength\obj\Debug\StringLength.pdb

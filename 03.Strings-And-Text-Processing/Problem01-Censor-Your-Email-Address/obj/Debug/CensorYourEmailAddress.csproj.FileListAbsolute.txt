@@ -1,0 +1,5 @@
+E:\coding\CSharp\Fundamentals\Advanced-CSharp\VB\Strings-And-Text-Processing\CensorYourEmailAddress\bin\Debug\CensorYourEmailAddress.exe
+E:\coding\CSharp\Fundamentals\Advanced-CSharp\VB\Strings-And-Text-Processing\CensorYourEmailAddress\bin\Debug\CensorYourEmailAddress.pdb
+E:\coding\CSharp\Fundamentals\Advanced-CSharp\VB\Strings-And-Text-Processing\CensorYourEmailAddress\obj\Debug\CensorYourEmailAddress.csprojResolveAssemblyReference.cache
+E:\coding\CSharp\Fundamentals\Advanced-CSharp\VB\Strings-And-Text-Processing\CensorYourEmailAddress\obj\Debug\CensorYourEmailAddress.exe
+E:\coding\CSharp\Fundamentals\Advanced-CSharp\VB\Strings-And-Text-Processing\CensorYourEmailAddress\obj\Debug\CensorYourEmailAddress.pdb
